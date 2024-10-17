@@ -1,0 +1,14 @@
+/Users/elin/Desktop/OOP Project/OOP2_Project/bin/Debug/net8.0/OOP2_Project
+/Users/elin/Desktop/OOP Project/OOP2_Project/bin/Debug/net8.0/OOP2_Project.deps.json
+/Users/elin/Desktop/OOP Project/OOP2_Project/bin/Debug/net8.0/OOP2_Project.runtimeconfig.json
+/Users/elin/Desktop/OOP Project/OOP2_Project/bin/Debug/net8.0/OOP2_Project.dll
+/Users/elin/Desktop/OOP Project/OOP2_Project/bin/Debug/net8.0/OOP2_Project.pdb
+/Users/elin/Desktop/OOP Project/OOP2_Project/obj/Debug/net8.0/OOP2_Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elin/Desktop/OOP Project/OOP2_Project/obj/Debug/net8.0/OOP2_Project.AssemblyInfoInputs.cache
+/Users/elin/Desktop/OOP Project/OOP2_Project/obj/Debug/net8.0/OOP2_Project.AssemblyInfo.cs
+/Users/elin/Desktop/OOP Project/OOP2_Project/obj/Debug/net8.0/OOP2_Project.csproj.CoreCompileInputs.cache
+/Users/elin/Desktop/OOP Project/OOP2_Project/obj/Debug/net8.0/OOP2_Project.dll
+/Users/elin/Desktop/OOP Project/OOP2_Project/obj/Debug/net8.0/refint/OOP2_Project.dll
+/Users/elin/Desktop/OOP Project/OOP2_Project/obj/Debug/net8.0/OOP2_Project.pdb
+/Users/elin/Desktop/OOP Project/OOP2_Project/obj/Debug/net8.0/OOP2_Project.genruntimeconfig.cache
+/Users/elin/Desktop/OOP Project/OOP2_Project/obj/Debug/net8.0/ref/OOP2_Project.dll

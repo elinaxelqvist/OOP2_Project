@@ -1,0 +1,1 @@
+//Skapar AI-simulering

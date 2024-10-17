@@ -1,0 +1,1 @@
+//Beräknar poäng med iterator
