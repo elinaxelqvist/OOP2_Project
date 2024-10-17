@@ -1,1 +1,1 @@
-//Väljer strategi för AI
+//Väljer strategi för AI :-)
