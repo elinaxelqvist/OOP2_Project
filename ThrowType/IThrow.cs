@@ -1,3 +1,4 @@
-public interface IThrow {
+public interface IThrow
+{
     void Choose();
 }

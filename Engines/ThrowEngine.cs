@@ -1,0 +1,1 @@
+//Motor för att räkna hur många poäng ett kast ger
