@@ -10,5 +10,5 @@ public class Spin : IThrow
     }
 
     public void Choose()
-    => Consle.WriteLine($"{name} will be spinned with {power} % power!");
+    => Console.WriteLine($"{name} will be spinned with {power} % power!");
 }

@@ -10,5 +10,5 @@ public class Right : IThrow
     }
 
     public void Choose()
-    => Consle.WriteLine($"{name} will be throwed with {power} % power!");
+    => Console.WriteLine($"{name} will be throwed with {power} % power!");
 }

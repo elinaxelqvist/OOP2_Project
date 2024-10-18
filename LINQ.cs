@@ -1,1 +1,1 @@
-//LINQ
+//LINQ för highscore

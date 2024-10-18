@@ -1,5 +1,17 @@
-private IRuleSet ruleSet;
+public class Game
+{
+    // Skapa en instans av Player-klassen
+    Player player;
 
-//SingleGame()
+    //Throw spin = new Throw (new Spin (""))
 
-//OpponentGame()
+
+    //private IRuleSet ruleSet;
+    //SingleGame()
+    //OpponentGame()
+
+    public Game()
+    {
+        this.player = Menu.GetMenu();
+    }
+}
