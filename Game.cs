@@ -10,8 +10,8 @@ public class Game
     //SingleGame()
     //OpponentGame()
 
-    public Game()
-    {
-        this.player = Menu.GetMenu();
-    }
+    // public Game()
+    // {
+    //     this.player = Menu.GetMenu();
+    // }
 }
